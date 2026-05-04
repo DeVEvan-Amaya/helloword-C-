@@ -6,3 +6,4 @@ int main() {
     return 0;
 }
 
+// Gracias por visitar mi primer programa en C++ ;)
